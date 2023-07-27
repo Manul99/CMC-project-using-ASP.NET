@@ -1,0 +1,45 @@
+﻿body {
+    background-image: url(cmcnew.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    position: absolute;
+    width: 90%;
+    height: 75%;
+    left: 230px;
+    background-color: #ffffff;
+    top:255px;
+}
+
+.approved {
+    position: absolute;
+    width: 500px;
+    height: 80px;
+    left: 80px;
+    top:30px;
+    background-color:darkgreen;
+}
+
+.text{
+    position:absolute;
+    top:20px;
+    left:80px;
+    color:#ffffff;
+}
+
+.card{
+    position:relative;
+    top:130px;
+    left:80px;
+}
+
+
+
+.heading2 {
+    position: absolute;
+    left: 250px;
+    top: 250px;
+}
+

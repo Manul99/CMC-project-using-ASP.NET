@@ -1,0 +1,39 @@
+﻿body {
+    background-image: url(cmcnew.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    position: absolute;
+    width: 2000px;
+    height: 80%;
+    left: 200px;
+    background-color: #ffffff;
+    top: 230px;
+}
+
+.buttons {
+    position: absolute;
+    top: 150px;
+}
+
+.poster {
+    position: absolute;
+    width: 580px;
+    height: 430px;
+    left: 300px;
+    top: 100px;
+}
+
+.content {
+    position: absolute;
+    top: 50px;
+    left: 20px
+}
+
+.tble {
+    position: absolute;
+    top: 300px;
+    left: 80px
+}

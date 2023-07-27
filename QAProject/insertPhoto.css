@@ -1,0 +1,49 @@
+﻿body {
+    background-image: url(cmc1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.image {
+    position: absolute;
+    width: 700px;
+    height: 600px;
+    left: 458px;
+    background-color: #ffffff;
+    bottom:-80px;
+}
+
+.heading {
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+
+.container {
+    position: absolute;
+    left: 20px;
+    top: 90px;
+}
+
+.container1 {
+    position: absolute;
+    width: 600px;
+    height: 440px;
+    left:35px;
+    background-color: #ffffff;
+    top: 65px;
+    border:1px solid black;
+    border-radius:10px;
+}
+
+.container2 {
+    position: absolute;
+    left: 20px;
+    top: 30px;
+}
+
+.buttons {
+    position: absolute;
+    left: 190px;
+    top: 350px;
+}

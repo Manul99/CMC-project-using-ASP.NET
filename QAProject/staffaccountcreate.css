@@ -1,0 +1,49 @@
+﻿body {
+    background-image: url(cmcnew.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    position: absolute;
+    width: 2000px;
+    height: 80%;
+    left: 200px;
+    background-color: #ffffff;
+    top: 230px;
+}
+
+.buttons {
+    position: absolute;
+    top: 230px;
+}
+
+.insert {
+    position: absolute;
+    width: 580px;
+    height: 430px;
+    left: 200px;
+    top: 100px;
+}
+
+.label {
+    position: absolute;
+    top: 40px;
+    left: 2px;
+}
+
+.update {
+    position: absolute;
+    width: 880px;
+    height: 430px;
+    left: 320px;
+    top: -1px;
+}
+
+.delete {
+    position: absolute;
+    width: 880px;
+    height: 430px;
+    left: 630px;
+    top: -2px;
+}

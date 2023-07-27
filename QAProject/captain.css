@@ -1,0 +1,35 @@
+﻿body {
+    background-image: url(cmc1.jpg);
+    background-size: cover;
+    
+    
+}
+
+.heading {
+    position: absolute;
+    left:550px;
+    top: 200px;
+    color:darkgreen;
+}
+
+.heading2 {
+    position: absolute;
+    left: 250px;
+    top: 250px;
+   
+}
+
+.container1 {
+    position: absolute;
+    width: 950px;
+    height: 800px;
+    left: 240px;
+    background-color: #ffffff;
+    top:300px;
+}
+
+.border{
+    position:absolute;
+    left:200px;
+    top:20px;
+}

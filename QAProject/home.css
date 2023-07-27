@@ -1,0 +1,320 @@
+﻿/*.desktop-2,
+.desktop-2 * {
+    box-sizing: border-box;
+}
+
+.desktop-2 {
+    background: #ffffff;
+    width: 100%;
+    height: 1024px;
+    position: relative;
+    overflow: hidden;
+}
+
+.images-28-1 {
+    width: 1440px;
+    height: 731px;
+    position: absolute;
+    left: 0px;
+    top: 293px;
+}
+
+.rectangle-1 {
+    background: rgba(163, 197, 177, 0.51);
+    width: 1440px;
+    height: 1024px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.rectangle-2 {
+    background: #ffffff;
+    width: 1440px;
+    height: 212px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.municipal-council {
+    color: #028b10;
+    text-align: left;
+    font: 400 0px "Times New Roman", sans-serif;
+    position: absolute;
+    left: 992px;
+    top: 22px;
+}
+
+.municipal-council-span {
+    color: #028b10;
+    font: 400 70px "Times New Roman", sans-serif;
+}
+
+.municipal-council-span2 {
+    color: #028b10;
+    font: 400 60px "Times New Roman", sans-serif;
+}
+
+.cmc-logo-1 {
+    width: 386px;
+    height: 203px;
+    position: absolute;
+    left: 502px;
+    top: 9px;
+}
+
+.colombo {
+    color: #028b10;
+    text-align: left;
+    font: 400 84px "Times New Roman", sans-serif;
+    position: absolute;
+    left: 29px;
+    top: 56px;
+    width: 445px;
+    height: 124px;
+}
+
+.rectangle-3 {
+    background: #0d5214;
+    width: 1440px;
+    height: 81px;
+    position: absolute;
+    left: 0px;
+    top: 212px;
+}
+
+.home {
+    color: #ffffff;
+    text-align: left;
+    font: 400 36px "Times New Roman", sans-serif;
+    position: absolute;
+    left: 58px;
+    top: 232px;
+}
+
+.contact-us {
+    color: #ffffff;
+    text-align: left;
+    font: 400 36px "Times New Roman", sans-serif;
+    position: absolute;
+    left: 321px;
+    top: 232px;
+}
+
+.about-us {
+    color: #ffffff;
+    text-align: left;
+    font: 400 36px "Times New Roman", sans-serif;
+    position: absolute;
+    left: 649px;
+    top: 232px;
+}
+
+.login-register {
+    color: #ffffff;
+    text-align: left;
+    font: 400 36px "Times New Roman", sans-serif;
+    position: absolute;
+    left: 1165px;
+    top: 232px;
+}
+
+.img-20210428-wa-0000-1 {
+    width: 1194px;
+    height: 524px;
+    position: absolute;
+    left: 103px;
+    top: 356px;
+}
+
+.material-symbols-navigate-next {
+    position: absolute;
+    left: 1211px;
+    top: 580px;
+    overflow: visible;
+}
+
+.material-symbols-navigate-next2 {
+    position: absolute;
+    left: 200.99px;
+    top: 721.66px;
+    transform: translate(-110.99px, -143.66px);
+    overflow: visible;
+}
+
+.material-symbols-arrow-drop-down {
+    position: absolute;
+    left: 1122px;
+    top: 229px;
+    overflow: visible;
+}
+
+.rectangle-54 {
+    background: #0d5214;
+    width: 1440px;
+    height: 122px;
+    position: absolute;
+    left: 0px;
+    top: 902px;
+}
+
+.copyright-2023-garbage-collection-sitemap-terms-of-use-pricing-policy-privacy-policy-environmental-surcharges {
+    color: #ffffff;
+    text-align: left;
+    font: 400 20px "Inter", sans-serif;
+    position: absolute;
+    left: 114px;
+    top: 996px;
+}
+
+.copyright-2023-garbage-collection-sitemap-terms-of-use-pricing-policy-privacy-policy-environmental-surcharges-span {
+    color: #ffffff;
+    font: 400 20px "Inter", sans-serif;
+}
+
+.copyright-2023-garbage-collection-sitemap-terms-of-use-pricing-policy-privacy-policy-environmental-surcharges-span2 {
+    color: #ffffff;
+    font: 400 20px "Inter", sans-serif;
+    text-decoration: underline;
+}
+
+.copyright-2023-garbage-collection-sitemap-terms-of-use-pricing-policy-privacy-policy-environmental-surcharges-span3 {
+    color: #ffffff;
+    font: 400 20px "Inter", sans-serif;
+    text-decoration: underline;
+}
+
+.copyright-2023-garbage-collection-sitemap-terms-of-use-pricing-policy-privacy-policy-environmental-surcharges-span4 {
+    color: #ffffff;
+    font: 400 20px "Inter", sans-serif;
+    text-decoration: underline;
+}
+
+.copyright-2023-garbage-collection-sitemap-terms-of-use-pricing-policy-privacy-policy-environmental-surcharges-span5 {
+    color: #ffffff;
+    font: 400 20px "Inter", sans-serif;
+    text-decoration: underline;
+}
+
+.copyright-2023-garbage-collection-sitemap-terms-of-use-pricing-policy-privacy-policy-environmental-surcharges-span6 {
+    color: #ffffff;
+    font: 400 20px "Inter", sans-serif;
+}
+
+.copyright-2023-garbage-collection-sitemap-terms-of-use-pricing-policy-privacy-policy-environmental-surcharges-span7 {
+    color: #ffffff;
+    font: 400 20px "Inter", sans-serif;
+    text-decoration: underline;
+}
+
+.copyright-2023-garbage-collection-sitemap-terms-of-use-pricing-policy-privacy-policy-environmental-surcharges-span8 {
+    color: #ffffff;
+    font: 400 20px "Inter", sans-serif;
+}
+
+.copyright-2023-garbage-collection-sitemap-terms-of-use-pricing-policy-privacy-policy-environmental-surcharges-span9 {
+    color: #ffffff;
+    font: 400 20px "Inter", sans-serif;
+    text-decoration: underline;
+}
+
+.feedback {
+    color: #ffffff;
+    text-align: left;
+    font: 700 24px "Inter", sans-serif;
+    position: absolute;
+    left: 1064px;
+    top: 927px;
+}
+
+.rectangle-55 {
+    background: #d9d9d9;
+    border-radius: 16px;
+    width: 230px;
+    height: 39px;
+    position: absolute;
+    left: 1196px;
+    top: 922px;
+}
+
+.follow-us {
+    color: #ffffff;
+    text-align: left;
+    font: 700 24px "Inter", sans-serif;
+    position: absolute;
+    left: 540px;
+    top: 925px;
+}
+
+.mingcute-facebook-fill {
+    width: 41px;
+    height: 34px;
+    position: absolute;
+    left: 683px;
+    top: 922px;
+    overflow: hidden;
+}
+
+.group {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+.bi-instagram {
+    position: absolute;
+    left: 782px;
+    top: 927px;
+    overflow: visible;
+}
+
+.ph-twitter-logo-bold {
+    position: absolute;
+    left: 866px;
+    top: 920px;
+    overflow: visible;
+}*/
+footer {
+    box-sizing: border-box;
+    position: relative;
+    background-color: #0D5214;
+    /*padding: 0px 110px 110px 110px;*/
+    width: 99.9%;
+    
+ 
+    /* Height of the footer*/
+    /*background: grey;*/
+
+    left: 1px;
+}
+
+.feedback{
+    top:220px;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card-img-top {
+        object-fit: cover;
+        height: 200px; /* Adjust the height as needed */
+        width:300px;
+    }
+
+    .mh-25 {
+        max-height: 35vh; /* Adjust the maximum height as needed */
+
+    }
+
+
+
+

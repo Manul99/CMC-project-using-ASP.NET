@@ -1,0 +1,35 @@
+﻿footer {
+    box-sizing: border-box;
+    position: relative;
+    background-color: #0D5214;
+    /*padding: 0px 110px 110px 110px;*/
+    width: 99.9%;
+    /* Height of the footer*/
+    /*background: grey;*/
+    
+    left: 1px;
+}
+
+.feedback {
+    top: 220px;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+    .card:hover {
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+.card-img-top {
+    object-fit: cover;
+    height: 200px; /* Adjust the height as needed */
+    width: 300px;
+}
+
+.mh-25 {
+    max-height: 35vh; /* Adjust the maximum height as needed */
+}
